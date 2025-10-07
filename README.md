@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Languages**
 
-- 📫 How to reach me **itachi001ui@gmail.com**
+- 📫 How to reach me **pwnixd7@gmail.com**
 
 - ⚡ Fun fact **I am a beginner/pawn**
 
