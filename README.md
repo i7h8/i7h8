@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm ITACHI</h1>
-<h3 align="center">A passionate frontend developer from Middle East</h3>
+<h3 align="center"># 🔒 ملاحظة | Notice:
+# بعض الأجزاء من هذا الكود من إنشائي أو من تعديلي الشخصي، وهي لأغراضي الخاصة فقط.
+# الرجاء عدم النسخ أو الاستخدام أو النشر دون إذن مسبق مني.
+# Some parts of this code are my own creation or personal modifications, for my private use only.
+# Please do not copy, use, or share without my prior permission.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i7h8&label=Profile%20views&color=0e75b6&style=flat" alt="i7h8" /> </p>
 
